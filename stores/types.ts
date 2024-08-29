@@ -1,6 +1,4 @@
-import { CarCardDataType } from "@/components/home-page/featured-vehicles";
-import { InsuranceData } from "@/components/reservation-steps/step-two/insurance-swiper";
-import { Addon } from "@/components/reservation-steps/step-two/single-addon";
+
 
 type InnsuranceItem = {
   id: number;
@@ -35,14 +33,14 @@ export type BookingSlice = {
   setDropOffDate: (value: Date) => void;
   dropoffTime: string | null;
   setDropOffTime: (value: string) => void;
-  selectedVehicle: CarCardDataType | null;
-  setSelectedVehicle: (value: CarCardDataType) => void;
+  selectedVehicle: any | null;
+  setSelectedVehicle: (value: any) => void;
   selectedInsurance: InnsuranceItem | null;
   setSelectedInsurance: (value: InnsuranceItem) => void;
-  selectedAddons: Addon[];
-  addAddon: (value: Addon) => void;
-  deleteAddon: (value: Addon) => void;
-  setSelectedAddons: (value: Addon[]) => void;
+  selectedAddons: any[];
+  addAddon: (value: any) => void;
+  deleteAddon: (value: any) => void;
+  setSelectedAddons: (value: any[]) => void;
   totalPrice: number;
   selectedDays: number;
   setSelectedDays: (value: number) => void;

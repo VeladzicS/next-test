@@ -350,7 +350,6 @@ export default function ReservationForm() {
                           disabled={(date:any) =>
                             date < new Date() || date < new Date("1900-01-01")
                           }
-                          initialFocus
                           locale={dateFnsLocale}
                         />
                       </PopoverContent>
@@ -460,7 +459,6 @@ export default function ReservationForm() {
                           disabled={(date:any) =>
                             date < form.getValues("pickupdate")
                           }
-                          initialFocus
                           locale={dateFnsLocale}
                         />
                       </PopoverContent>
