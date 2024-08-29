@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 23 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="Vector_Smart_Object" transform="matrix(1,0,0,1,-2147.61,-450)">
+        <g id="Vector_Smart_Object-2" transform="matrix(1,0,0,1,2148,450)">
+            <path id="Path_207" d="M3,1L19,1C20.094,1.008 20.992,1.906 21,3L21,15C20.992,16.094 20.094,16.992 19,17L3,17C1.906,16.992 1.008,16.094 1,15L1,3C1.008,1.906 1.906,1.008 3,1Z" style="fill:none;fill-rule:nonzero;stroke:rgb(253,195,0);stroke-width:2px;"/>
+            <path id="Path_208" d="M21,3L11,10L1,3" style="fill:none;fill-rule:nonzero;stroke:rgb(253,195,0);stroke-width:2px;"/>
+        </g>
+        <path id="Color_Overlay" d="M2151,467C2149.91,466.992 2149.01,466.094 2149,465L2149,453C2149.01,451.906 2149.91,451.008 2151,451L2167,451C2168.09,451.008 2168.99,451.906 2169,453L2169,465C2168.99,466.094 2168.09,466.992 2167,467L2151,467Z" style="fill:none;fill-rule:nonzero;stroke:rgb(253,195,0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+    </g>
+</svg>
